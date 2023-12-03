@@ -19,9 +19,7 @@ export default class App extends React.Component {
             data={{dataSets:[{label: "demo", values: [{y: 1}, {y: 2}, {y: 1}]}]}}
           />
         </View>
-        <Text>Line 
-
-      flex{ space between </Text>}
+        <Text>Line
 
       </View>
     );
