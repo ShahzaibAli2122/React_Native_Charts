@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 import {LineChart} from 'react-native-charts-wrapper';
-
+import BarChart from './Charts/BarChart';
 export default class App extends React.Component {
 
   render() {
@@ -18,6 +18,7 @@ export default class App extends React.Component {
             data={{dataSets:[{label: "demo", values: [{y: 1}, {y: 2}, {y: 1}]}]}}
           />
         </View>
+        <BarChart/>
         
       </View>
     );
