@@ -8,6 +8,8 @@ import {
 
 import {LineChart} from 'react-native-charts-wrapper';
 import BarChart from './Charts/BarChart';
+import TableChart from './Charts/TableChart';
+
 export default class App extends React.Component {
 
   render() {
@@ -19,6 +21,7 @@ export default class App extends React.Component {
           />
         </View>
         <BarChart/>
+        <TableChart/>
         
       </View>
     );
