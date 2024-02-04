@@ -19,6 +19,25 @@ export default class App extends React.Component {
           />
         </View>
         <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
+        <Text style={{fontSize:30,backgroundColor:'red'}}>Hello</Text>
       </View>
     );
   }
