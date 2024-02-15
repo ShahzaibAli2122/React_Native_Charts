@@ -13,7 +13,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={{flex: 1}}>
-        <Text style={{}} >Line Chart</Text>
+        <Text style={{fontSize:20}} >Line Chart</Text>
         <View style={styles.container}>
           <LineChart style={styles.chart}
             data={{dataSets:[{label: "demo", values: [{y: 1}, {y: 2}, {y: 1}]}]}}
